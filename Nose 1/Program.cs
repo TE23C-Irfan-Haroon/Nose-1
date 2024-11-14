@@ -77,7 +77,7 @@ using System.Formats.Asn1;
 bool succes = false;
 string answer;
 int answer2;
-int rightAnswer = Random.Shared
+int rightAnswer = Random.Shared.Next(0, 100);
 
 while (succes != true)
 {
@@ -85,7 +85,7 @@ while (succes != true)
     answer = Console.ReadLine();
     succes = int.TryParse(answer, out answer2);
     
-    if (answer2 == 69)
+    if (answer2 == rightAnswer)
 {
     Console.WriteLine("RÄTT GISSNING");
     Console.ReadLine();
@@ -95,13 +95,13 @@ if (succes != true)
     Console.WriteLine("FEL GISSNING FÖRSÖK IGEN");
     continue;
 }
-if (answer2 < 69)
+if (answer2 < rightAnswer)
 {
     succes = false;
     Console.WriteLine("FEL GISSNING FÖRSÖK IGEN");
     Console.WriteLine("DIN GISSNING VAR FÖR LÅGT");
 }
-else if (answer2 > 69)
+else if (answer2 > rightAnswer)
 {
     succes = false;
     Console.WriteLine("FEL GISSNING FÖRSÖK IGEN");
