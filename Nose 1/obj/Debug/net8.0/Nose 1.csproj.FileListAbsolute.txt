@@ -1,0 +1,14 @@
+C:\Users\haroon.irfan\Documents\programering 1\Nose 1\Nose 1\obj\Debug\net8.0\Nose 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haroon.irfan\Documents\programering 1\Nose 1\Nose 1\obj\Debug\net8.0\Nose 1.AssemblyInfoInputs.cache
+C:\Users\haroon.irfan\Documents\programering 1\Nose 1\Nose 1\obj\Debug\net8.0\Nose 1.AssemblyInfo.cs
+C:\Users\haroon.irfan\Documents\programering 1\Nose 1\Nose 1\obj\Debug\net8.0\Nose 1.csproj.CoreCompileInputs.cache
+C:\Users\haroon.irfan\Documents\programering 1\Nose 1\Nose 1\bin\Debug\net8.0\Nose 1.exe
+C:\Users\haroon.irfan\Documents\programering 1\Nose 1\Nose 1\bin\Debug\net8.0\Nose 1.deps.json
+C:\Users\haroon.irfan\Documents\programering 1\Nose 1\Nose 1\bin\Debug\net8.0\Nose 1.runtimeconfig.json
+C:\Users\haroon.irfan\Documents\programering 1\Nose 1\Nose 1\bin\Debug\net8.0\Nose 1.dll
+C:\Users\haroon.irfan\Documents\programering 1\Nose 1\Nose 1\bin\Debug\net8.0\Nose 1.pdb
+C:\Users\haroon.irfan\Documents\programering 1\Nose 1\Nose 1\obj\Debug\net8.0\Nose 1.dll
+C:\Users\haroon.irfan\Documents\programering 1\Nose 1\Nose 1\obj\Debug\net8.0\refint\Nose 1.dll
+C:\Users\haroon.irfan\Documents\programering 1\Nose 1\Nose 1\obj\Debug\net8.0\Nose 1.pdb
+C:\Users\haroon.irfan\Documents\programering 1\Nose 1\Nose 1\obj\Debug\net8.0\Nose 1.genruntimeconfig.cache
+C:\Users\haroon.irfan\Documents\programering 1\Nose 1\Nose 1\obj\Debug\net8.0\ref\Nose 1.dll
